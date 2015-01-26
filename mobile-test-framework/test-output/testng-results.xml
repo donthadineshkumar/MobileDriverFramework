@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="TestCases" duration-ms="43892" started-at="2015-01-23T21:18:29Z" finished-at="2015-01-23T21:19:13Z">
+    <groups>
+    </groups>
+    <test name="SampleDemoTestNG_Tests" duration-ms="43892" started-at="2015-01-23T21:18:29Z" finished-at="2015-01-23T21:19:13Z">
+      <class name="test.TestCaseExample">
+        <test-method status="PASS" signature="setup(org.testng.ITestContext)[pri:0, instance:test.TestCaseExample@1301b94]" name="setup" is-config="true" duration-ms="8171" started-at="2015-01-23T15:18:29Z" finished-at="2015-01-23T15:18:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@e5a644]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="TestCase1(org.testng.ITestContext)[pri:0, instance:test.TestCaseExample@1301b94]" name="TestCase1" duration-ms="34214" started-at="2015-01-23T15:18:38Z" finished-at="2015-01-23T15:19:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@e5a644]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="destroy()[pri:0, instance:test.TestCaseExample@1301b94]" name="destroy" is-config="true" duration-ms="1499" started-at="2015-01-23T15:19:12Z" finished-at="2015-01-23T15:19:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- destroy -->
+      </class> <!-- test.TestCaseExample -->
+    </test> <!-- SampleDemoTestNG_Tests -->
+  </suite> <!-- TestCases -->
+</testng-results>
