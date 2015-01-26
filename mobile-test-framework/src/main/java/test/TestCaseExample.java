@@ -40,6 +40,7 @@ public class TestCaseExample extends MobileBaseDriver {
 		ANDRIOD.makeCall("");
 		ANDRIOD.toggleWifi("");
 		
+		System.out.println("Test");
 	}
 	 
 	 
