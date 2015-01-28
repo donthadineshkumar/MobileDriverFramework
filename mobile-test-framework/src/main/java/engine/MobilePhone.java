@@ -11,7 +11,8 @@ public interface MobilePhone {
 	public void makeCall(String phoneNum);
 	public void sendSMS(String smsMsg, String phoneNum);
 	public void pickWheelItem(String value);
+	public void getDescription(String value);
 	
-	
+	/* device information */
 	
 }

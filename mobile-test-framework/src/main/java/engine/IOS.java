@@ -37,6 +37,12 @@ public class IOS implements MobilePhone {
 		System.out.println("IOS PickWheelItem");
 	}
 
+	@Override
+	public void getDescription(String value) {
+		// TODO Auto-generated method stub
+		
+	}
+
 
 
 

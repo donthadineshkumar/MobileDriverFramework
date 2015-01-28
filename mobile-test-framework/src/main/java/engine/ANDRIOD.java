@@ -32,6 +32,12 @@ public class ANDRIOD implements MobilePhone {
 		System.out.println("Andriod PickWheelItem");
 	}
 
+	@Override
+	public void getDescription(String value) {
+		// TODO Auto-generated method stub
+		
+	}
+
 
 
 

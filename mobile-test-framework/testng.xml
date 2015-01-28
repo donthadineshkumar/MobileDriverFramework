@@ -5,7 +5,7 @@
 <parameter name="proxyAddress" value="10.136.32.32"/>
 <parameter name="proxyPort" value="8080"/>
 <parameter name="userId" value="rajp@perfectomobile.com"/>
-<parameter name="pass" value="Perfecto1234!"/>
+<parameter name="pass" value="Perfecto"/>
 <parameter name="defaultdeviceID" value="DBF70BF4BE6919E583D19619B6DC773A37269561"/>
 	<!-- Run_Mode:= Debug/Automation -->
 <parameter name="Run_Mode"  value="Debug"/>

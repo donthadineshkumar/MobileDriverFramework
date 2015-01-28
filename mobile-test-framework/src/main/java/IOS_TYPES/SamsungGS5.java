@@ -1,12 +1,9 @@
 package IOS_TYPES;
 
-import engine.IOS;
+import engine.ANDRIOD;
 
-public class Iphone6 extends IOS {
+public class SamsungGS5 extends ANDRIOD{
 
 	public void makeCall(String phoneNum) {
 	}
-	
-	
 }
-
